@@ -84,12 +84,9 @@ plugins:
   # Раскомментировать в случае необходимости генерации
   # PDF-версии руководства.
   #- with-pdf
-  - search:
-      lang: en
+  - search
   - blog
 nav:
     - WeC: index.md
     - Changes: changelog.md
-    - Prologue:
-       - Few words: prologue/fewwords.md
-lang: en
+
