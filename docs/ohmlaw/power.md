@@ -1,4 +1,4 @@
 ---
 title: Power
-layout: default
+parent: OhmsLaw
 ---
