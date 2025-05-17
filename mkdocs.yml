@@ -94,5 +94,5 @@ nav:
     - WeC: index.md
     - Changes: changelog.md
     - Prologue:
-       - Введение: prologue/fewwords.md
+       - Few words: prologue/fewwords.md
 lang: en
