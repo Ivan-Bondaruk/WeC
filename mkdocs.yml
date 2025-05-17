@@ -86,7 +86,7 @@ plugins:
   # PDF-версии руководства.
   #- with-pdf
   - search:
-      lang: ru
+      lang: en
 
   - include:
         src_path: docs/packages
