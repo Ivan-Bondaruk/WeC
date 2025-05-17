@@ -86,7 +86,7 @@ plugins:
   #- with-pdf
   - search:
       lang: en
-  - docs
+  - blog
 nav:
     - WeC: index.md
     - Changes: changelog.md
