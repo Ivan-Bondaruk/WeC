@@ -1,4 +1,4 @@
 ---
 title: Amperage
-layout: default
+parent: Ohm's Law
 ---
