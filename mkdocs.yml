@@ -1,10 +1,10 @@
-site_name: Linux для себя
-site_author: Linux4Yourself community
+site_name: WeC
+site_author: Ivan Bondaruk
 site_description: 'Подробное руководство по созданию собственной Linux-системы из исходного кода'
-site_url: https://lx4u.ru/mkdocs/#
+site_url: https://ivan-bondaruk.github.io/WeC/
 
-repo_name: book
-repo_url: https://github.com/Linux4Yourself/book
+repo_name: WeC
+repo_url: https://github.com/Ivan-Bondaruk
 edit_uri: edit/develop/docs/
 
 theme:
