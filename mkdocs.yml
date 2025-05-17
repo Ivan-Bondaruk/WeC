@@ -4,8 +4,7 @@ site_description: 'Подробное руководство по создани
 site_url: https://ivan-bondaruk.github.io/WeC/
 
 repo_name: WeC
-repo_url: https://github.com/Ivan-Bondaruk
-edit_uri: edit/develop/docs/
+repo_url: https://github.com/Ivan-Bondaruk/WeC
 
 theme:
   name: 'material'
@@ -87,6 +86,7 @@ plugins:
   #- with-pdf
   - search:
       lang: en
+  - docs
 nav:
     - WeC: index.md
     - Changes: changelog.md
