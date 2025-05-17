@@ -1,4 +1,4 @@
 ---
 title: Amperage
-parent: Ohm's Law
+parent: OhmsLaw
 ---
