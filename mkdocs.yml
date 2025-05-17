@@ -87,9 +87,6 @@ plugins:
   #- with-pdf
   - search:
       lang: en
-
-  - include:
-        src_path: docs/packages
 nav:
     - WeC: index.md
     - Changes: changelog.md
