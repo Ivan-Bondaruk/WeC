@@ -37,39 +37,54 @@ theme:
     text: 'Open Sans'
     code: 'Droid Sans Mono'
 
-palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
+extra:
+  social:
+    - icon: 'fontawesome/brands/github'
+      link: 'https://github.com/Linux4Yourself/book'
+    - icon: 'fontawesome/brands/telegram'
+      link: 'https://t.me/Linux4Yourself'
 
-# Plugins
+markdown_extensions:
+  - admonition
+  - abbr
+  - def_list
+  - md_in_html
+  - codehilite
+  - meta
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: ⚓︎
+  - markdown.extensions.tables
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.magiclink:
+      repo_url_shortener: true
+      repo_url_shorthand: true
+      provider: "github"
+      user: "facelessuser"
+      repo: "pymdown-extensions"
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+
 plugins:
+  # Раскомментировать в случае необходимости генерации
+  # PDF-версии руководства.
+  #- with-pdf
+  - search
   - blog
-  - search:
-      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify:
-      minify_html: true
 nav:
     - WeC: index.md
     - Changes: changelog.md
