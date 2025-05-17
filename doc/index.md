@@ -1,4 +1,4 @@
 ---
 title: Documentation
-layout: doc
+layout: default
 ---
