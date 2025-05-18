@@ -1,3 +1,0 @@
-./configure --prefix=/usr                           \
-            --localstatedir=/var                    \
-            --without-x --with-gnutls=ifavailable

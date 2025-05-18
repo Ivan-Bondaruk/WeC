@@ -1,6 +1,0 @@
-build
-cldirs
-configure
-configure-systemd
-install
-test

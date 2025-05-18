@@ -1,2 +1,0 @@
-sed -e '/R_386_TLS_LE /i \   || (TYPE) == R_386_TLS_IE \\' \
-    -i ./bfd/elfxx-x86.h

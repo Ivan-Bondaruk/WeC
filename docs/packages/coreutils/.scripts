@@ -1,7 +1,0 @@
-build
-cldirs
-configure
-install
-patch
-prepare
-test
