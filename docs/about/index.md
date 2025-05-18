@@ -1,51 +1,51 @@
-# WeC – мощь ветра в ваших руках
+# WeC – the power of the wind is in your hands
 
-> _Инструмент для расчётов и анализа в области ветроэнергетики – быстрый, удобный и автономный._
-
----
-
-## Что такое **WeC**?
-
-**WeC** — это современное приложение для инженеров, исследователей и энтузиастов ветроэнергетики, которое помогает рассчитывать ключевые параметры ветрогенераторов. Мы собрали всё самое важное, убрали лишнее — чтобы вы могли сосредоточиться на инженерии, а не на рутине.
-
-🔗 [Скачать из Microsoft Store](https://apps.microsoft.com/detail/9PB1Q05RX9ZR)
+> _Wind energy calculation and analysis tool - fast, convenient and autonomous._
 
 ---
 
-## Почему стоит выбрать WeC?
+## What is **WeC**?
+
+**WeC** is a modern application for engineers, researchers and wind energy enthusiasts that helps calculate key parameters of wind turbines. We have collected all the most important things, removed the unnecessary ones - so that you can focus on engineering, not on routine.
+
+🔗 [Donwload from Microsoft Store](https://apps.microsoft.com/detail/9PB1Q05RX9ZR)
+
+---
+
+## Why choose WeC?
 
 ### Everything you’d expect – and a little more
 
 !!! info ""
-    Ниже — ключевые особенности WeC, оформленные в стиле Apple + Material:
+    Below are the key features of WeC:
 
 ---
 
-!!! example "🚀 Быстрая и лёгкая"
-    Мы позаботились о скорости. Приложение весит совсем немного, моментально запускается и работает плавно даже на старых устройствах.
+!!! example "🚀 Fast and lightweight"
+    We took care of the speed. The application weighs very little, starts instantly and works smoothly even on old devices.
 
-!!! example "📡 Без интернета"
-    Все расчёты выполняются локально — не нужен интернет. Полная автономность, куда бы вы ни поехали.
+!!! example "📡 No Internet"
+    All calculations are performed locally - no Internet needed. Complete autonomy, wherever you go.
 
-!!! example "🧠 Сделано для профессионалов"
-    Расчёты и интерфейс адаптированы под реальные кейсы специалистов из ветроэнергетики. Мы консультировались с экспертами, чтобы ничего лишнего.
+!!! example "🧠 Made for professionals"
+    Calculations and interface are adapted to real cases of wind energy specialists. We consulted with experts to ensure there is nothing superfluous.
 
-!!! example "🔧 Постоянное развитие"
-    WeC — живой проект. Мы активно развиваем функциональность, прислушиваемся к пользователям и готовим новые полезные инструменты.
-
----
-
-## Кому подойдёт WeC?
-
-- Инженерам по возобновляемой энергетике
-- Научным исследователям и студентам
-- Разработчикам и проектировщикам ветряных турбин
-- Всем, кто увлечён энергией ветра
+!!! example "🔧 Constant development"
+    WeC is a living project. We are actively developing functionality, listening to users and preparing new useful tools.
 
 ---
 
-## Присоединяйтесь к будущему чистой энергии
+## Who is WeC suitable for?
 
-**WeC** — ваш надежный помощник в мире ветра. Установите, исследуйте, проектируйте.
+- Renewable energy engineers
+- Researchers and students
+- Wind turbine designers and developers
+- Anyone who is passionate about wind energy
 
-📥 [Скачать WeC](https://apps.microsoft.com/detail/9PB1Q05RX9ZR)
+---
+
+## Join the future of clean energy
+
+**WeC** — your reliable assistant in the world of wind. Install, research, design.
+
+📥 [Download WeC](https://apps.microsoft.com/detail/9PB1Q05RX9ZR)
