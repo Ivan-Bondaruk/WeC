@@ -172,6 +172,6 @@ nav:
       - Anual energy production: tools/windandenergy/aep.md
       - Real power: tools/windandenergy/realpower.md
       - Payback period: tools/windandenergy/paybackperiod.md
-  - In Dev: tools/dev.md
+    - In Dev: tools/dev.md
   - Blog:
     - blog/index.md
