@@ -12,7 +12,7 @@
 I = \frac{U}{R}
 \]
 
-- Также можно вывести другие формулы:
+> Также можно вывести другие формулы:
 
 - Через напряжение и сопротивление:
   
@@ -38,11 +38,19 @@ I = \frac{U}{R}
 - \( R \) — сопротивление (в омах, **Ω**)
 
 
-### 📖 Источники:
+### 📖 Sources:
 
-- [Wikipedia — Закон Ома](https://ru.wikipedia.org/wiki/Закон_Ома)
-- Г. С. Ландсберг, *Элементарный учебник физики* — Москва: Наука, 1987
-- [Khan Academy — Ohm's Law (EN)](https://www.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ohms-law)
+- [Ohm's Law – Khan Academy](https://www.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ohms-law)  
+  A clear and visual explanation of Ohm's Law with practice problems and applications.
+
+- [Ohm's Law – Electronics Tutorials](https://www.electronics-tutorials.ws/dccircuits/dcp_2.html)  
+  In-depth technical explanation of Ohm’s Law and related formulas (voltage, current, resistance, power).
+
+- [Ohm's Law – All About Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-2/ohms-law/)  
+  A detailed breakdown of the law with circuit diagrams and derivations.
+
+- [Wikipedia – Ohm's Law](https://en.wikipedia.org/wiki/Ohm%27s_law)  
+  General overview with historical context, SI units, and derived equations.
 
 ---
 
