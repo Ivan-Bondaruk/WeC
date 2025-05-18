@@ -161,7 +161,6 @@ nav:
   - Tools:
     - Kind of tools: tools/index.md
     - Ohms Law:
-      - About: tools/ohmslaw/index.md
       - Current: tools/ohmslaw/current.md
       - Voltage: tools/ohmslaw/voltage.md
       - Resistance: tools/ohmslaw/resistance.md
