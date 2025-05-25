@@ -158,6 +158,7 @@ nav:
     - about/index.md
     - about/support.md
     - about/devsupport.md
+    - about/privacy.md
   - Tools:
     - Kind of tools: tools/index.md
     - Ohms Law:
