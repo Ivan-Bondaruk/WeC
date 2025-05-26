@@ -6,11 +6,11 @@ Wind Power — Theoretical Wind Power
 
 Understanding this value is important for:
 
-> assessing the potential of an installation at a specific location,
+- assessing the potential of an installation at a specific location,
 
-> preliminary comparison of different turbines and their diameters,
+- preliminary comparison of different turbines and their diameters,
 
-> optimizing the location of wind turbines.
+- optimizing the location of wind turbines.
 
 ??? note "Tip" 
     In practice, some energy is lost due to mechanical, aerodynamic and         electrical factors, but the theoretical power serves as a starting point for calculations.
@@ -20,21 +20,18 @@ $$
 P = \frac{1}{2} \cdot \rho \cdot A \cdot v^3
 $$
 Where:
-
-P is the theoretical wind power (W),
-
-ρ is the air density (kg/m³), typically about 1.225 kg/m³ at sea level and 15°C,
-
-A is the area swept by the blades, $A = \pi \cdot \left( \frac{D}{2} \right)^2$, where D is the rotor diameter,
-v is the wind speed (m/s).
+- P is the theoretical wind power (W),
+- ρ is the air density (kg/m³), typically about 1.225 kg/m³ at sea level and 15°C,
+- A is the area swept by the blades, $A = \pi \cdot \left( \frac{D}{2} \right)^2$, where D is the rotor diameter,
+- v is the wind speed (m/s).
 
 ??? note "🧠 Explanation"
 
-    The turbine blades rotate and sweep a circular area.
+    - The turbine blades rotate and sweep a circular area.
 
-    This area is critical because it defines how much wind energy can be captured.
+    - This area is critical because it defines how much wind energy can be captured.
 
-    If you double the rotor diameter, the swept area increases by a factor of 4:
+    - If you double the rotor diameter, the swept area increases by a factor of 4:
 
     $$
     A \propto D^2
