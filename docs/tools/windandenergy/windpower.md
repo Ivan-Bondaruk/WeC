@@ -26,7 +26,20 @@ P is the theoretical wind power (W),
 ρ is the air density (kg/m³), typically about 1.225 kg/m³ at sea level and 15°C,
 
 A is the area swept by the blades, $A = \pi \cdot \left( \frac{D}{2} \right)^2$, where D is the rotor diameter,
-
 v is the wind speed (m/s).
+
+??? note "🧠 Explanation"
+
+    The turbine blades rotate and sweep a circular area.
+
+    This area is critical because it defines how much wind energy can be captured.
+
+    If you double the rotor diameter, the swept area increases by a factor of 4:
+
+    $$
+    A \propto D^2
+    $$
+    
+    So even small increases in blade length can significantly boost potential power output.
 
 This formula demonstrates a cubic dependence on wind speed: a small increase in speed significantly increases the power.
