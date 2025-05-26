@@ -15,5 +15,6 @@ To estimate the **actual usable electrical power**, we apply an **overall effici
 
 The estimated actual power output is calculated using:
 
-```math
-P_{\text{actual}} = \eta \cdot P_{\text{theoretical}} = \eta \cdot \left( \frac{1}{2} \cdot \rho \cdot A \cdot v^3 \right)
+$$
+P_{\text{actual}} = \eta \cdot \left( \frac{1}{2} \cdot \rho \cdot A \cdot v^3 \right)
+$$
