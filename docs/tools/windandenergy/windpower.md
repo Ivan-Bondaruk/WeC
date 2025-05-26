@@ -1,5 +1,3 @@
-Wind Power — Theoretical Wind Power
-
 ## 📚 Theory
 
 **Theoretical wind power** is the maximum amount of energy that can be extracted from the air flow passing through the area swept by the wind turbine blades. This calculation is based on the assumption of perfect efficiency (ignoring losses), i.e. it is the upper limit of the available energy.
